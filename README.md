@@ -1,14 +1,9 @@
 # QA_QC_Assignment
 #src/main/java/maintest/TestingRapidAPI.java  contains the source code of the automation scripts for the following features
-```
-/*
-given ()
-	content type, set cookies, add auth, add param, set headers info etc....
-	
-when ()
-	get, post, put, delete
+1. Getting 200 ok status as pass
+2. Valid LinkedIn URL including some fields (Skills True)
+3. Test a valid LinkedIn profile
+#Test Output folder contains the test output results
 
-then()
-	validate status code, extract response, extract headers cookies & response body....
- */
-```
+**Please find the QA Test document here for detailed test instructions and Test results:**
+https://docs.google.com/spreadsheets/d/1FCE_MdnIm02EpV3r1_CKQKbF3czUIbSOQoa6anLIzg0/edit?gid=783914863#gid=783914863
