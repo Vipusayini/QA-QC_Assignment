@@ -19,7 +19,7 @@ then()
 
 public class TestingRapidAPI {
 	
-	String key = "a18ab559f1msheba3da5111a5f33p14d916jsndefedcd2c7bd";
+	String key = "1c54e51301msh60f7fd5e52e4e29p11cf81jsndc7e7c7bc3d3";
 	String host =  "fresh-linkedin-profile-data.p.rapidapi.com";
 	
 	String rootURLPath = "https://fresh-linkedin-profile-data.p.rapidapi.com/get-linkedin-profile";
