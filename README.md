@@ -3,6 +3,7 @@
 1. Getting 200 ok status as pass
 2. Valid LinkedIn URL including some fields (Skills True)
 3. Test a valid LinkedIn profile
+   
 #Test Output folder contains the test output results
 
 **Please find the QA Test document here for detailed test instructions and Test results:**
